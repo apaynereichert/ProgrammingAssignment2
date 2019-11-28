@@ -2,6 +2,7 @@
 ## The first function contains the 'getters' and 'setters'
 ## It returns a list containing these four functions so that once an object...
 ## is created, you can call the getting and setting functions from the list
+## The second function creates the inverse of a matrix, but checks first to see...
 ## if the inverse has already been calculated
 
 ## This function allows you to create an object that contains a list of the getter and setter functions
